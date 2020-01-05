@@ -1,1 +1,1 @@
-# browser_fingerprint_example
+No cookie fingerprint example
